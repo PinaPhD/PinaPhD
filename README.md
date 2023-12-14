@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PinaPhD
-- 👀 I’m interested in IoT network design and reliability evaluation for the renewable energy sector
-- 🌱 I’m currently learning intergration of renewable energy sources, mathematical modeling of IoT system for reliability and new performance metrics, SDN
-- 💞️ I’m looking to collaborate on IoT, cloud computing, edge computing, system reliability & network design, SDN
+- 👀 I’m interested in designing novel IoT-Edge Networks for extreme environments
+- 🌱 I’m currently learning AI for network automation to envision zero-touch networks
+- 💞️ I’m looking to collaborate on IoT-Edge, system reliability and resilience framework design and Reinforcement Learning
 - 📫 How to reach me a.w.mwangi@uu.nl
 
 <!---
