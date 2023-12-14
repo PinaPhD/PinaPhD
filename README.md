@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PinaPhD
+- 👋 Hi, I’m Agrippina Mwangi (Certified CCNA)
 - 👀 I’m interested in designing novel IoT-Edge Networks for extreme environments
 - 🌱 I’m currently learning AI for network automation to envision zero-touch networks
 - 💞️ I’m looking to collaborate on IoT-Edge, system reliability and resilience framework design and Reinforcement Learning
